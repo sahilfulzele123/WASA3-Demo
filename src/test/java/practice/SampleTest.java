@@ -9,5 +9,11 @@ public class SampleTest {
 	{
 		System.out.println("Testing");
 	}
+	
+	@Test
+	public void add()
+	{
+		System.out.println("adding");
+	}
 
 }
